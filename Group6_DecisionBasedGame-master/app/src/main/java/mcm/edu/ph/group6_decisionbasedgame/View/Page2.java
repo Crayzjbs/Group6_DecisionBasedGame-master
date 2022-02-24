@@ -17,4 +17,4 @@ public class Page2 extends AppCompatActivity {
 
     // GO TO THE KITCHEN - JUSTINE
 
-} Sting "nikol"
+} Sting "nikol 2"
